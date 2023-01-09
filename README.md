@@ -4,7 +4,11 @@ This is a Regex tutorial. Regex is a set of characters that together make a patt
 
 ## Summary
 
-Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary.
+In this tutorial, I will be explaining the components of a regular expression. This expression is used to validate a username.
+
+Example Of Regular Expression:
+
+/^[A-Za-z][A-Za-z0-9_]{10,30}$/
 
 ## Table of Contents
 
